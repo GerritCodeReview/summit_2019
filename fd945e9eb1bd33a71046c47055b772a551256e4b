@@ -1,0 +1,199 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fbb1a037_29e523bc",
+        "filename": "conduct-policy.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Our policy is in accordance with this, but we should probably replace this with the VCC policy.  I will work on getting that in here today.",
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "261f9c71_a3c70800",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Göteborg/Gothenburg",
+      "range": {
+        "startLine": 11,
+        "startChar": 72,
+        "endLine": 11,
+        "endChar": 80
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a50cadb4_82a42757",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Actual event will be in Volvohallen: https://goo.gl/maps/HWHd11EkEP6YPAjD7",
+      "range": {
+        "startLine": 12,
+        "startChar": 10,
+        "endLine": 12,
+        "endChar": 47
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "62328e05_2c0b768a",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Car",
+      "range": {
+        "startLine": 3,
+        "startChar": 19,
+        "endLine": 3,
+        "endChar": 23
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "20ce270e_179e4eba",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Volvohallen: https://goo.gl/maps/HWHd11EkEP6YPAjD7",
+      "range": {
+        "startLine": 5,
+        "startChar": 57,
+        "endLine": 5,
+        "endChar": 96
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a9722e63_fb2d837f",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Car\n(Its either \"Volvo Cars\" or \"Volvo Car Corporation\", not confusing at all. :)",
+      "range": {
+        "startLine": 5,
+        "startChar": 36,
+        "endLine": 5,
+        "endChar": 40
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "95fcd943_bbfbfb84",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "Volvohallen\nVolvo Cars HQ\nGunnar Engellaus väg 2, 418 78 Göteborg\nSweden",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 6
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fc16edd1_a55902ee",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "I\u0027ll put in some brief check-in instructions here.",
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d0de8098_f9bf3b9c",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-23T08:08:28Z",
+      "side": 1,
+      "message": "These instructions are little off, I will edit them to be more accurate.",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 46,
+        "endChar": 53
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
