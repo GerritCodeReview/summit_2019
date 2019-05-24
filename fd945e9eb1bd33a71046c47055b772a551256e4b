@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "ab829107_22a4c914",
+        "filename": "conduct-policy.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Sounds good, let me know as soon as you have the correct policy wordings.",
+      "parentUuid": "fbb1a037_29e523bc",
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "261f9c71_a3c70800",
         "filename": "index.md",
         "patchSetId": 6
@@ -42,6 +60,30 @@
     },
     {
       "key": {
+        "uuid": "74e692f7_4f5ca729",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Will keep the English spelling everywhere.",
+      "parentUuid": "261f9c71_a3c70800",
+      "range": {
+        "startLine": 11,
+        "startChar": 72,
+        "endLine": 11,
+        "endChar": 80
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a50cadb4_82a42757",
         "filename": "index.md",
         "patchSetId": 6
@@ -53,6 +95,30 @@
       "writtenOn": "2019-05-23T08:08:28Z",
       "side": 1,
       "message": "Actual event will be in Volvohallen: https://goo.gl/maps/HWHd11EkEP6YPAjD7",
+      "range": {
+        "startLine": 12,
+        "startChar": 10,
+        "endLine": 12,
+        "endChar": 47
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "44e3c8e7_5824d8a8",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Thanks, will update.",
+      "parentUuid": "a50cadb4_82a42757",
       "range": {
         "startLine": 12,
         "startChar": 10,
@@ -85,6 +151,30 @@
       "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1b2c0186_aafdb0b5",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Will stick with Volvo Cars everywhere.",
+      "parentUuid": "62328e05_2c0b768a",
+      "range": {
+        "startLine": 3,
+        "startChar": 19,
+        "endLine": 3,
+        "endChar": 23
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -131,6 +221,54 @@
       "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "50b41c73_fdcfbacf",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "20ce270e_179e4eba",
+      "range": {
+        "startLine": 5,
+        "startChar": 57,
+        "endLine": 5,
+        "endChar": 96
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f4b435a5_e4317734",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Will stick with Volvo Cars everywhere.",
+      "parentUuid": "a9722e63_fb2d837f",
+      "range": {
+        "startLine": 5,
+        "startChar": 36,
+        "endLine": 5,
+        "endChar": 40
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -194,6 +332,30 @@
       "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0d72b22d_80afa7a2",
+        "filename": "location.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-05-24T05:56:30Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "d0de8098_f9bf3b9c",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 46,
+        "endChar": 53
+      },
+      "revId": "fd945e9eb1bd33a71046c47055b772a551256e4b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
