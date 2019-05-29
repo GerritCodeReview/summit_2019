@@ -45,6 +45,30 @@
       "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8f0a295c_e1fd0e5c",
+        "filename": "location.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-05-29T08:20:59Z",
+      "side": 1,
+      "message": "I will work on getting that, but I probably can\u0027t get it until Monday since its a long holiday weekend here in Sweden starting tomorrow.  The intention is that it is a boilerplate \"in case you hear something you know you shouldn\u0027t, ignore it\" kind of NDA.",
+      "parentUuid": "3acb2706_140bf8c3",
+      "range": {
+        "startLine": 21,
+        "startChar": 59,
+        "endLine": 21,
+        "endChar": 75
+      },
+      "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
