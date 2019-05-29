@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b08a2518_1821a589",
+        "filename": "index.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2019-05-29T08:14:45Z",
+      "side": 1,
+      "message": "at their HQ",
+      "range": {
+        "startLine": 11,
+        "startChar": 60,
+        "endLine": 11,
+        "endChar": 68
+      },
+      "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3acb2706_140bf8c3",
+        "filename": "location.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2019-05-29T08:14:45Z",
+      "side": 1,
+      "message": "That might be an issue for us. Is it possible to see it beforehand so that we can get internal approval to sign it? I\u0027m pretty sure I won\u0027t be able to sign anything without former approval.",
+      "range": {
+        "startLine": 21,
+        "startChar": 59,
+        "endLine": 21,
+        "endChar": 75
+      },
+      "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
