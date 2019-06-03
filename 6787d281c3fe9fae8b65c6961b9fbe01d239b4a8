@@ -141,6 +141,30 @@
       "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "15cdbccb_5a6fe5cd",
+        "filename": "location.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-06-03T08:24:05Z",
+      "side": 1,
+      "message": "I will see if this is something that can be done beforehand, that would be nice.  I found out my event planner is on vacation until Friday, and then I am on a trip next week, so it turns out it will be a couple weeks before we can have this solved.",
+      "parentUuid": "d797bdb2_b7efdf4a",
+      "range": {
+        "startLine": 21,
+        "startChar": 59,
+        "endLine": 21,
+        "endChar": 75
+      },
+      "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
