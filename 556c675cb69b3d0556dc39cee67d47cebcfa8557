@@ -34,6 +34,24 @@
       "revId": "556c675cb69b3d0556dc39cee67d47cebcfa8557",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7b912a3f_f6c85a18",
+        "filename": "schedule.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-06-12T09:34:12Z",
+      "side": 1,
+      "message": "Doesn\u0027t have to be exact, as the schedule is always flexible.",
+      "parentUuid": "41276baa_ac16d9f7",
+      "revId": "556c675cb69b3d0556dc39cee67d47cebcfa8557",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
