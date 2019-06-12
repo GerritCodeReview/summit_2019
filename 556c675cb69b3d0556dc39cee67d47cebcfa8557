@@ -52,6 +52,24 @@
       "revId": "556c675cb69b3d0556dc39cee67d47cebcfa8557",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "94d5c8ee_a566bc3f",
+        "filename": "schedule.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2019-06-12T10:24:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7b912a3f_f6c85a18",
+      "revId": "556c675cb69b3d0556dc39cee67d47cebcfa8557",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
