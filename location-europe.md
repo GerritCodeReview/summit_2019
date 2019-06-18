@@ -1,6 +1,6 @@
-# Gerrit User Summit 2019 - Location
+# Gerrit User Summit Europe 2019 - Location
 
-## Hosted by Volvo Cars
+## Europe - Hosted by Volvo Cars
 
 The User Summit is hosted by Volvo Cars in [Volvohallen](https://goo.gl/maps/HWHd11EkEP6YPAjD7).
 
