@@ -1,6 +1,6 @@
-# Gerrit User Summit 2019 - Schedule
+# Gerrit User Summit Europe 2019 - Schedule
 
-## Hackathon, 24-28th August
+## Hackathon, 24-28th August (Sat-Wed)
 
 | Time  | Session                                                 |
 |-------|---------------------------------------------------------|
@@ -39,9 +39,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |-------|----------------------------------------------------------------------------------------------|
 |  9:00 | Breakfast, Networking                                                                        |
 | 10:00 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
-| 11:00 | Community Retrospective - Part 1
-| 11:45 | Break
-| 12:00 | Community Retrospective - Part 2
+| 11:00 | Community Retrospective - Part 1                                                             |
+| 11:45 | Break                                                                                        |
+| 12:00 | Community Retrospective - Part 2                                                             |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | Gertty, console-based interface to the Gerrit Code Review system                             |
 | 15:00 | End-to-End Git/Gerrit testing with Gatling                                                   |
