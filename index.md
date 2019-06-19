@@ -6,10 +6,10 @@ The Gerrit Community is happy to announce the Gerrit User Summit & Hackathon 201
 THE event of the year for everything related to Gerrit Code Review and the
 trunk-based development pipeline.
 
-## One Summit, two events
+## Summit in Europe and USA
 
-The Gerrit User Summit & Hackathon is composed of **two different events and locations**,
-one in Sweden (Europe) and another in California (USA), to allow most of the community around
+The Gerrit User Summit & Hackathon 2019 will be held in Gothenburg (Sweden) and
+in Sunnyvale (California, USA), to allow most of the community around
 the globe to attend and share their experience and ideas.
 
 The first part of the event is a 5-days Hackathon reserved for the current
