@@ -39,7 +39,7 @@ The Gerrit User Summit & Hackathon is hosted and sponsored by [Volvo Cars at the
 *Dates*
 
 - The Hackathon (reserved for Gerrit maintainers and contributors):
-24-28th August 2019](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnEzcmxlbGtpam0zdDNhYXNqZjFjMmVwM2cgZ29vZ2xlLmNvbV91YmIxcGxhNmlqNzg1b3FianI2MWg0dmRpc0Bn&tmsrc=google.com_ubb1pla6ij785oqbjr61h4vdis%40group.calendar.google.com)
+[24-28th August 2019](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnEzcmxlbGtpam0zdDNhYXNqZjFjMmVwM2cgZ29vZ2xlLmNvbV91YmIxcGxhNmlqNzg1b3FianI2MWg0dmRpc0Bn&tmsrc=google.com_ubb1pla6ij785oqbjr61h4vdis%40group.calendar.google.com)
 - The Summit (open for all members of the Gerrit Community):
 [29-30th August 2019](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3FhOTduMGJnOWphcXQ0Y3RpcG8xcDdxaWUgZ29vZ2xlLmNvbV91YmIxcGxhNmlqNzg1b3FianI2MWg0dmRpc0Bn&tmsrc=google.com_ubb1pla6ij785oqbjr61h4vdis%40group.calendar.google.com)
 
