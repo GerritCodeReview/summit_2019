@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "f141ac7c_a14e51e8",
+        "filename": "index.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-06-19T11:48:52Z",
+      "side": 1,
+      "message": "Done in a follow-up change.",
+      "parentUuid": "188dfb47_9401e8f9",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "530119b1_c6a381fa",
         "filename": "index.md",
         "patchSetId": 8
@@ -105,6 +123,24 @@
       "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "052663b4_4d714dd0",
+        "filename": "index.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-06-19T11:48:52Z",
+      "side": 1,
+      "message": "Addressed in a follow-up change.",
+      "parentUuid": "3ab4cca6_57666a8f",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
