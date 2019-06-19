@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "210bea21_317dd6cb",
+        "filename": "index.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-06-19T08:39:31Z",
+      "side": 1,
+      "message": "They are technically two summits, yes. However, the USA is going to be 80% the replay of the one in Europe. It is then effectively one \"summit content\" with two dates.\n\nHow would you suggest to rephrase it?",
+      "parentUuid": "fc5366d1_e79d98ba",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "530119b1_c6a381fa",
         "filename": "index.md",
         "patchSetId": 8
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "9ad22bb1_ad74ccbb",
+        "filename": "index.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-06-19T08:39:31Z",
+      "side": 1,
+      "message": "How about \"split into two separate events on two continents\"?",
+      "parentUuid": "530119b1_c6a381fa",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "968602a6_3e688a76",
         "filename": "location-usa.md",
         "patchSetId": 8
@@ -47,6 +83,24 @@
       "writtenOn": "2019-06-19T07:36:05Z",
       "side": 1,
       "message": "how about public transport ?",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7ef8dc80_617fd2c1",
+        "filename": "location-usa.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-06-19T08:39:31Z",
+      "side": 1,
+      "message": "Yes, you can use the CalTrain from Santa Clara. Will add that information also.",
+      "parentUuid": "968602a6_3e688a76",
       "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
