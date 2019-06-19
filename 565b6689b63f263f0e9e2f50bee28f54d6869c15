@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "188dfb47_9401e8f9",
+        "filename": "index.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1004034
+      },
+      "writtenOn": "2019-06-19T09:24:48Z",
+      "side": 1,
+      "message": "Summit in Europe and USA",
+      "parentUuid": "210bea21_317dd6cb",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "530119b1_c6a381fa",
         "filename": "index.md",
         "patchSetId": 8
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "How about \"split into two separate events on two continents\"?",
       "parentUuid": "530119b1_c6a381fa",
+      "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3ab4cca6_57666a8f",
+        "filename": "index.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004034
+      },
+      "writtenOn": "2019-06-19T09:24:48Z",
+      "side": 1,
+      "message": "The Gerrit User Summit \u0026 Hackathon 2019 will be held in Gothenburg (Sweden) and in Sunnyvale (California, USA), to allow ...",
+      "parentUuid": "9ad22bb1_ad74ccbb",
       "revId": "565b6689b63f263f0e9e2f50bee28f54d6869c15",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
