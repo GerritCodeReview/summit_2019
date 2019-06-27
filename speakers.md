@@ -19,3 +19,12 @@ for the Electrical Propulsion Systems group at Volvo Cars.  He has worked on
 modernizing software engineering processes using Gerrit and other CM/CI systems
 previously at Garmin and Apple and has been a member of the Gerrit community
 since 2009.
+
+### Fabio Ponciroli - GerritForge
+
+[LinkedIn](https://uk.linkedin.com/in/fponciroli/)
+
+Fabio is a Senior Software Engineer at GerritForge where he contributes to the OpenSource Gerrit Code Review project.
+He has been involved since the beginning in the design and development of DevOps analytics tools for Gerrit.
+He has extensive experience in working on backend systems, on-premise and cloud-based, with different programming languages,
+such as Scala, Java, NodeJS and related ecosystems.
