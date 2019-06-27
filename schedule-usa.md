@@ -44,7 +44,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 12:00 | Community Retrospective - Part 2                                                             |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | << Gerrit case study - slot available >>                                                     |
-| 15:00 | End-to-End Git/Gerrit testing with Gatling                                                   |
+| 15:00 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
 | 16:00 | Break & Networking                                                                           |
 | 16:15 | Wrap-up and proposals for future Summits                                                     |
 | 17:00 | End of the Gerrit User Summit                                                                |
