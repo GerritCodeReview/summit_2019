@@ -75,3 +75,13 @@ security easier to get right for everyone.
 Since 2015, he is one of the maintainers of the open-source ALM software
 [Tuleap](https://www.tuleap.org/) which gives him the chance to work daily
 with Gerrit.
+
+
+### James E. Blair - Red Hat {#corvus}
+
+James is a core member of the OpenStack project infrastructure team
+and a maintainer of the Zuul project gating system. As a sysadmin and
+hacker he gets to write elegant code and then try to make it work in
+the real world. He has been active in free software for quite some
+time, and has previously worked for UC Berkeley and the Free Software
+Foundation.
