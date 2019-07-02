@@ -213,6 +213,30 @@
       "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c48862f0_b812a586",
+        "filename": "location.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2019-07-02T13:45:05Z",
+      "side": 1,
+      "message": "Yes, I am having Legal/IP fix something new since the one I was provided I had a problem with...basically you couldn\u0027t take notes, which is a problem. :) I am syncing up with them in the morning.",
+      "parentUuid": "89c9a489_bca6c070",
+      "range": {
+        "startLine": 21,
+        "startChar": 59,
+        "endLine": 21,
+        "endChar": 75
+      },
+      "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
