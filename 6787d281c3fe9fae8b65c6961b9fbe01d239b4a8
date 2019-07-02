@@ -237,6 +237,30 @@
       "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "35a7619c_5f0945ec",
+        "filename": "location.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2019-07-02T13:47:13Z",
+      "side": 1,
+      "message": "OK, please let us know once you have something :)",
+      "parentUuid": "c48862f0_b812a586",
+      "range": {
+        "startLine": 21,
+        "startChar": 59,
+        "endLine": 21,
+        "endChar": 75
+      },
+      "revId": "6787d281c3fe9fae8b65c6961b9fbe01d239b4a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
