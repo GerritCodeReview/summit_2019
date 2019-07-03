@@ -16,6 +16,24 @@
       "revId": "185446feb268084786de7132f457bfa04585e191",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ae51c2fd_2ac13397",
+        "filename": "speakers.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2019-07-03T13:15:05Z",
+      "side": 1,
+      "message": "Added some more details, but I don\u0027t have any public profile that is maintained.",
+      "parentUuid": "01c09190_4e307356",
+      "revId": "185446feb268084786de7132f457bfa04585e191",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
