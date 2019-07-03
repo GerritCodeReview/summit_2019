@@ -1,5 +1,11 @@
 # Gerrit User Summit 2019 - Speakers
 
+### Edwin Kempin - Google {#ekempin}
+
+Edwin is [maintainer](https://www.gerritcodereview.com/members.html#maintainers)
+and [community manager](https://www.gerritcodereview.com/members.html#community-managers)
+of the Gerrit Code Review project.
+
 ### Luca Milanesio - GerritForge {#lmilanesio}
 
 [LinkedIn](https://www.linkedin.com/in/lucamilanesio/)
