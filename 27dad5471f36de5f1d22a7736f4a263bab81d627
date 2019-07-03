@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "879b8c4f_73f019be",
+        "filename": "sessions/Gerrit-load-testing.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-07-03T12:32:36Z",
+      "side": 1,
+      "message": ",",
+      "range": {
+        "startLine": 6,
+        "startChar": 12,
+        "endLine": 6,
+        "endChar": 13
+      },
+      "revId": "27dad5471f36de5f1d22a7736f4a263bab81d627",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "c875766f_4cbe5c9d",
         "filename": "sessions/Gerrit-load-testing.md",
         "patchSetId": 1
@@ -37,6 +60,30 @@
       "side": 1,
       "message": "Where is the anchor supposed to point to? Is the \"speakers.md\" common for both the USA and Europe summit?",
       "parentUuid": "c875766f_4cbe5c9d",
+      "range": {
+        "startLine": 10,
+        "startChar": 47,
+        "endLine": 10,
+        "endChar": 53
+      },
+      "revId": "27dad5471f36de5f1d22a7736f4a263bab81d627",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "05696117_092849b4",
+        "filename": "sessions/Gerrit-load-testing.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-07-03T12:32:36Z",
+      "side": 1,
+      "message": "Yes, the file is common for both, as many speakers are attending both.",
+      "parentUuid": "c2815588_88562552",
       "range": {
         "startLine": 10,
         "startChar": 47,
