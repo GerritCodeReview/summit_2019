@@ -39,9 +39,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |-------|----------------------------------------------------------------------------------------------|
 |  9:00 | Breakfast, Networking                                                                        |
 | 10:00 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
-| 11:00 | Community Retrospective - Part 1                                                             |
+| 11:00 | [Community Retrospective - Part 1](sessions/community-retrospective.md)                      |
 | 11:45 | Break                                                                                        |
-| 12:00 | Community Retrospective - Part 2                                                             |
+| 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | << Gerrit case study - slot available >>                                                     |
 | 15:00 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
