@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f708a6e1_8adf0d3b",
+        "filename": "speakers.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2019-07-04T04:01:23Z",
+      "side": 1,
+      "message": "Better to add an explicit anchor name.  See L3 for example.",
+      "revId": "2e4e89109cd8bb998550dd666c3ce2ad2ae0def0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
