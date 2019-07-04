@@ -18,7 +18,7 @@ If you are coming by car, there is free parking available for the attendees of t
 ## Check-in Instructions
 
 When you arrive at Volvohallen, please enter through the southeast entrance, which faces 
-the parking lot.  You will be greeted and can check-in and sign a basic NDA.
+the parking lot.  You will be greeted and can check-in.
 
 You will receive at check-in:
 
