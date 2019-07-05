@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e917e6a1_a6778a0a",
+        "filename": "lightning-talks/show-me-your-dashboards.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-07-05T06:35:44Z",
+      "side": 1,
+      "message": "Nit: Remove empty line.",
+      "revId": "cf2a0e35e91b5bc5cc2b1ed34ad428cec7255c20",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b835d715_d03adc03",
+        "filename": "schedule-usa.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-07-05T06:35:44Z",
+      "side": 1,
+      "message": "What about formatting with a bullet list?",
+      "revId": "cf2a0e35e91b5bc5cc2b1ed34ad428cec7255c20",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
