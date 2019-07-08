@@ -15,7 +15,7 @@
 
 Introduction, intermediate and advanced sessions on Gerrit Code Review.
 
-### Thursday 16th November
+### Saturday 16th November
 
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 17:30 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3.0                                                        |
 
-### Friday 17th November
+### Sunday 17th November
 
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
