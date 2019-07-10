@@ -26,7 +26,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | First-class Gerrit CI integration with Checks                                                |
 | 11:45 | Gerrit goes multi-site                                                                       |
 | 12:45 | Lunch & Networking                                                                           |
-| 14:00 | Prolog-less submit rules, easy and for everyone                                              |
+| 14:00 | << Gerrit case study - slot available >>                                                     |
 | 15:00 | << Gerrit case study - slot available >>                                                     |
 | 16:00 | Break & Networking                                                                           |
 | 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md)
