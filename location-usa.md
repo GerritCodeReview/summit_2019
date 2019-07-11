@@ -68,3 +68,6 @@ Water and coffee will be available on-site also.
 __Internet__
 
 Wifi will be available to all attendees.
+
+## Parking
+
