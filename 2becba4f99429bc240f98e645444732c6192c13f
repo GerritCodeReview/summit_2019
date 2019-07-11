@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d20d4077_e199576f",
+        "filename": "location-usa.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1086104
+      },
+      "writtenOn": "2019-07-11T16:45:09Z",
+      "side": 1,
+      "message": "Suggested text for the parking section:\n\nLocated on the corner of South Murphy Avenue and Evelyn Avenue, there are several options for parking in the area. See the map below.\n\nPlease note that during the weekend mornings, a farmer’s market runs in Murphy Avenue, therefore this street is closed for cars and the area can get busy with pedestrians.\n\n[Attach map]",
+      "range": {
+        "startLine": 73,
+        "startChar": 0,
+        "endLine": 73,
+        "endChar": 0
+      },
+      "revId": "2becba4f99429bc240f98e645444732c6192c13f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
