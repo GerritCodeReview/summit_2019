@@ -46,6 +46,30 @@
       "revId": "2becba4f99429bc240f98e645444732c6192c13f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df32b172_61ef3c7f",
+        "filename": "location-usa.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1086104
+      },
+      "writtenOn": "2019-07-11T17:45:51Z",
+      "side": 1,
+      "message": "https://drive.google.com/open?id\u003d1D8dLQnJSdW3cOYQ3ar1mvSemmVT1u5nQ",
+      "parentUuid": "436ea0c9_cfd1279d",
+      "range": {
+        "startLine": 73,
+        "startChar": 0,
+        "endLine": 73,
+        "endChar": 0
+      },
+      "revId": "2becba4f99429bc240f98e645444732c6192c13f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
