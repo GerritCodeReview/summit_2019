@@ -70,6 +70,30 @@
       "revId": "2becba4f99429bc240f98e645444732c6192c13f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1a7c8985_53ca293f",
+        "filename": "location-usa.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2019-07-12T17:54:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df32b172_61ef3c7f",
+      "range": {
+        "startLine": 73,
+        "startChar": 0,
+        "endLine": 73,
+        "endChar": 0
+      },
+      "revId": "2becba4f99429bc240f98e645444732c6192c13f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
