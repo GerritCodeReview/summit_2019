@@ -44,7 +44,8 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | Gertty, console-based interface to the Gerrit Code Review system                             |
-| 15:00 | End-to-End Git/Gerrit testing with Gatling                                                   |
+| 14:45 | End-to-End Git/Gerrit testing with Gatling                                                   |
+| 15:30 | [Dependency Visualization with Gerrit](sessions/dependency-visualization.md)                 |
 | 16:00 | Break & Networking                                                                           |
 | 16:15 | Wrap-up and proposals for future Summits                                                     |
 | 17:00 | End of the Gerrit User Summit                                                                |
