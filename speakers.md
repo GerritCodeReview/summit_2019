@@ -53,3 +53,16 @@ Since joining the project, Alice has been part of Google's Gerrit backend team
 who develops Gerrit core and maintains the Gerrit infrastructure at Google.
 She is passionate about code health and wants to bring a good developer
 experience to everyone.
+
+
+### Michael Watkins - Softagram {#mwatkins}
+
+Michael joined Softagram as a backend developer in the beginning of 2019,
+helping to reinforce the small team of developers in their new approach to
+code review and source code visualization. Shortly after joining the company,
+he began working on integrating Softagram's impact reports into the Gerrit
+workflow. Although he had no prior experience with Gerrit, Michael quickly
+learned some of the ins and outs, and is on his way to becoming a Gerrit
+expert. Besides sharing Softagram's simplified approach to code review at
+the Gerrit User Summit in Sweden, Michael is looking forward to participating
+as an attendee and continuing to build on his Gerrit Code Review knowledge.
