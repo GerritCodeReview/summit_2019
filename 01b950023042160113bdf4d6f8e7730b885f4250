@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "510d254b_5d68d58e",
+        "filename": "location-usa.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-07-12T22:59:11Z",
+      "side": 1,
+      "message": "Oops, you forgot to include the image. Can you add as follow-up change?",
+      "range": {
+        "startLine": 39,
+        "startChar": 21,
+        "endLine": 39,
+        "endChar": 49
+      },
+      "revId": "01b950023042160113bdf4d6f8e7730b885f4250",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
