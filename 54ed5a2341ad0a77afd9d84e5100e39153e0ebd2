@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6c4e86_07d7e70b",
+        "filename": "schedule-usa.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1026112
+      },
+      "writtenOn": "2019-07-12T07:28:53Z",
+      "side": 1,
+      "message": "I think we can skip this talk in the US. Luca brought up that US audience already got that content last year.",
+      "revId": "54ed5a2341ad0a77afd9d84e5100e39153e0ebd2",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
