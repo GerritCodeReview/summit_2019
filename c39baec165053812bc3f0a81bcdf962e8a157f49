@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "72b63c19_d178b1ef",
+        "filename": "location-europe.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2019-07-12T10:37:10Z",
+      "side": 1,
+      "message": "nit: Trailing white space",
+      "revId": "c39baec165053812bc3f0a81bcdf962e8a157f49",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
