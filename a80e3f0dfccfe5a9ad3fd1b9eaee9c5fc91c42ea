@@ -34,6 +34,24 @@
       "revId": "a80e3f0dfccfe5a9ad3fd1b9eaee9c5fc91c42ea",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "34464674_84eb7a66",
+        "filename": "images/sunnyvale-parking.png",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2019-07-15T18:28:42Z",
+      "side": 1,
+      "message": "The link is already in location-usa.md (https://gerrit.googlesource.com/summit/2019/+/refs/heads/master/location-usa.md#parking)\n\nAs David said I thought png was better. Anyway, let me know if you want me to switch to png.",
+      "parentUuid": "f564b839_dd58df8c",
+      "revId": "a80e3f0dfccfe5a9ad3fd1b9eaee9c5fc91c42ea",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
