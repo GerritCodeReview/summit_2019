@@ -41,3 +41,15 @@ analytics tools for Gerrit.
 He has extensive experience in working on backend systems, on-premise and
 cloud-based, with different programming languages, such as Scala, Java, NodeJS
 and related ecosystems.
+
+### Alice Kober-Sotzek - Google {#aliceks}
+
+Alice has been a software developer for 8 years with a strong focus on Java
+development (both backend and frontend). In 2016, she joined the Gerrit
+project and became a maintainer 8 months later. When the Engineering Steering
+Committee was formed in 2019, she became one of its members.
+
+Since joining the project, Alice has been part of Google's Gerrit backend team
+who develops Gerrit core and maintains the Gerrit infrastructure at Google.
+She is passionate about code health and wants to bring a good developer
+experience to everyone.

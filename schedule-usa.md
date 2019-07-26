@@ -23,7 +23,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |  9:00 | Welcome to GerritForge Inc. - KeyNote introduction                                           |
 |  9:30 | What's new in Gerrit v3.0                                                                    |
 | 10:30 | Break & Networking                                                                           |
-| 10:45 | First-class Gerrit CI integration with Checks                                                |
+| 10:45 | [First-class Gerrit CI integration with Checks](sessions/first-class-ci-integration.md)      |
 | 11:45 | Gerrit goes multi-site                                                                       |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [JGit (concrete topic to be decided)](sessions/jgit.md)
