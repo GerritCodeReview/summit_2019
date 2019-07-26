@@ -16,6 +16,24 @@
       "revId": "7cbe08d7e01c9bbf0d4709b8b5a2e441f419803d",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "821feb65_2e72345b",
+        "filename": "sessions/dependency-visualization.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1082761
+      },
+      "writtenOn": "2019-07-26T09:20:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "59d9b5a5_60ad8313",
+      "revId": "7cbe08d7e01c9bbf0d4709b8b5a2e441f419803d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
