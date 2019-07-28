@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "685bd1c7_87a4d9cb",
+        "filename": "sessions/dependency-visualization.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-07-28T15:35:48Z",
+      "side": 1,
+      "message": "Can you add your profile to the list of speakers? (look at speakers.md)",
+      "range": {
+        "startLine": 14,
+        "startChar": 1,
+        "endLine": 14,
+        "endChar": 27
+      },
+      "revId": "d284549b5a1bce297da4f6165e6eee4aac361a63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
