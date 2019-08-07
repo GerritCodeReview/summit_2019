@@ -38,7 +38,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
 |  9:00 | Breakfast, Networking                                                                        |
-| 10:00 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
+| 10:00 | [Code review at Tuleap: lessons from the trenches](sessions/code-review-lessons-xp.md)       |
 | 11:00 | [Community Retrospective - Part 1](sessions/community-retrospective.md)                      |
 | 11:45 | Break                                                                                        |
 | 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |

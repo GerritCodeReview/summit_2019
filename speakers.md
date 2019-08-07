@@ -66,3 +66,12 @@ learned some of the ins and outs, and is on his way to becoming a Gerrit
 expert. Besides sharing Softagram's simplified approach to code review at
 the Gerrit User Summit in Sweden, Michael is looking forward to participating
 as an attendee and continuing to build on his Gerrit Code Review knowledge.
+
+
+### Thomas Gerbet - Enalean {#tgerbet}
+
+Thomas is a software developer who has at heart to make application
+security easier to get right for everyone.
+Since 2015, he is one of the maintainers of the open-source ALM software
+[Tuleap](https://www.tuleap.org/) which gives him the chance to work daily
+with Gerrit.
