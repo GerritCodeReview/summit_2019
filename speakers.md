@@ -96,3 +96,17 @@ backends as a freelancer and at another big tech company.
 
 Patrick's main focus is performance and stability. He makes the latency graphs
 go up and the user satisfaction graphs go down. Or was it the other way around?
+
+### Monty Taylor - Red Hat {#mordred}
+
+[LinkedIn](https://www.linkedin.com/in/montytaylor)
+
+Monty currently leads the team that works on the Zuul project for
+CI/CD in Red Hat's CTO Office. He's the founder, core member and past
+PTL of the OpenStack Infra team which runs CI and developer tooling
+for OpenStack. He's a member of the OpenStack Foundation Board of
+Directors, a Python Fellow and past member the OpenStack Technical
+Committee. Monty is the PTL of the openstacksdk project and is the
+maintainer of the Ansible modules for consuming OpenStack. Before his
+OpenStack days he was a core developer on Drizzle and was a Senior
+Consultant for MySQL, Inc.

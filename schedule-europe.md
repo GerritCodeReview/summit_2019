@@ -28,9 +28,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Labels & Prolog-less submit rules](sessions/labels-and-prolog-less-submit-rules.md)         |
 | 15:00 | Gerrit at Volvo Cars                                                                         |
-| 16:00 | Break & Networking                                                                           |
-| 16:30 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
-| 17:15 | Using Zuul CI with Gerrit                                                                    |
+| 15:45 | Break & Networking                                                                           |
+| 16:15 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
+| 17:00 | [Using Zuul CI with Gerrit](sessions/zuul.md)                                                |
 | 17:45 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3.0                                                        |
 
