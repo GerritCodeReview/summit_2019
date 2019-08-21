@@ -29,7 +29,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 14:00 | [Labels & Prolog-less submit rules](sessions/labels-and-prolog-less-submit-rules.md)         |
 | 15:00 | Gerrit at Volvo Cars                                                                         |
 | 15:45 | Break & Networking                                                                           |
-| 16:15 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
+| 16:15 | [End-to-End Git/Gerrit testing with Gatling](sessions/gerrit-load-testing.md)                |
 | 17:00 | [Using Zuul CI with Gerrit](sessions/zuul.md)                                                |
 | 17:45 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3.0                                                        |
@@ -45,7 +45,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Gertty, console-based interface to the Gerrit Code Review system](sessions/gertty.md)       |
-| 14:45 | [End-to-End Git/Gerrit testing with Gatling](sessions/gerrit-load-testing.md)                |
+| 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
 | 15:30 | [Dependency Visualization with Gerrit](sessions/dependency-visualization.md)                 |
 | 16:00 | Break & Networking                                                                           |
 | 16:15 | Wrap-up and proposals for future Summits                                                     |
