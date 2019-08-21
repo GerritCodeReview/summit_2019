@@ -75,3 +75,15 @@ security easier to get right for everyone.
 Since 2015, he is one of the maintainers of the open-source ALM software
 [Tuleap](https://www.tuleap.org/) which gives him the chance to work daily
 with Gerrit.
+
+### Patrick Hiesel - Google {#hiesel}
+
+[LinkedIn](https://www.linkedin.com/in/patrickhiesel/)
+
+Patrick joined Google and the Gerrit project in 2016 working primarily on the
+backend. He is a Gerrit maintainer and a member of the newly formed Engineering
+Steering Committee. Before joining Google, Patrick worked on mobile apps and web
+backends as a freelancer and at another big tech company.
+
+Patrick's main focus is performance and stability. He makes the latency graphs
+go up and the user satisfaction graphs go down. Or was it the other way around?
