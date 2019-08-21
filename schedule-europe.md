@@ -4,7 +4,7 @@
 
 | Time  | Session                                                 |
 |-------|---------------------------------------------------------|
-|  8:30 | Registration Opens, Breakfast                           |
+|  8:30 | Registration Opens                           |
 |  9:30 | Presentation of the hackathon topics, introductions     |
 | 10:30 | Coding                                                  |
 | 12:15 | Lunch & Networking                                      |
@@ -19,7 +19,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
-|  8:30 | Registration Opens, Breakfast, Networking                                                    |
+|  8:30 | Registration Opens, Networking                                                    |
 |  9:00 | Welcome to Volvo Cars - KeyNote introduction                                                 |
 |  9:30 | What's new in Gerrit v3.0                                                                    |
 | 10:30 | Break & Networking                                                                           |
