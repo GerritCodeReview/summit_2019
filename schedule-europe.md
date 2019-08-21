@@ -26,11 +26,12 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | [First-class Gerrit CI integration with Checks](sessions/first-class-ci-integration.md)      |
 | 11:45 | Gerrit goes multi-site                                                                       |
 | 12:45 | Lunch & Networking                                                                           |
-| 14:00 | [Labels & Prolog-less submit rules](sessions/labels-and-prolog-less-submit-rules.md)      |
+| 14:00 | [Labels & Prolog-less submit rules](sessions/labels-and-prolog-less-submit-rules.md)         |
 | 15:00 | Gerrit at Volvo Cars                                                                         |
 | 16:00 | Break & Networking                                                                           |
-| 16:30 | Using Zuul CI with Gerrit                                                                    |
-| 17:30 | End of Day 1                                                                                 |
+| 16:30 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
+| 17:15 | Using Zuul CI with Gerrit                                                                    |
+| 17:45 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3.0                                                        |
 
 ### Friday 30th August

@@ -76,7 +76,6 @@ Since 2015, he is one of the maintainers of the open-source ALM software
 [Tuleap](https://www.tuleap.org/) which gives him the chance to work daily
 with Gerrit.
 
-
 ### James E. Blair - Red Hat {#corvus}
 
 James is a core member of the OpenStack project infrastructure team
@@ -85,3 +84,15 @@ hacker he gets to write elegant code and then try to make it work in
 the real world. He has been active in free software for quite some
 time, and has previously worked for UC Berkeley and the Free Software
 Foundation.
+
+### Patrick Hiesel - Google {#hiesel}
+
+[LinkedIn](https://www.linkedin.com/in/patrickhiesel/)
+
+Patrick joined Google and the Gerrit project in 2016 working primarily on the
+backend. He is a Gerrit maintainer and a member of the newly formed Engineering
+Steering Committee. Before joining Google, Patrick worked on mobile apps and web
+backends as a freelancer and at another big tech company.
+
+Patrick's main focus is performance and stability. He makes the latency graphs
+go up and the user satisfaction graphs go down. Or was it the other way around?
