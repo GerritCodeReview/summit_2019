@@ -57,6 +57,8 @@ experience to everyone.
 
 ### Michael Watkins - Softagram {#mwatkins}
 
+[LinkedIn](https://www.linkedin.com/in/watkinsmi/)
+
 Michael joined Softagram as a backend developer in the beginning of 2019,
 helping to reinforce the small team of developers in their new approach to
 code review and source code visualization. Shortly after joining the company,
