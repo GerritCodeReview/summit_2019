@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d456f790_0d65bbaf",
+        "filename": "sessions/gerrit-multi-site.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2019-08-27T23:08:59Z",
+      "side": 1,
+      "message": "released",
+      "range": {
+        "startLine": 5,
+        "startChar": 52,
+        "endLine": 5,
+        "endChar": 59
+      },
+      "revId": "b4e272d291cff48d09028241107704715940ea10",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "19235275_05fa966d",
+        "filename": "sessions/gerrit-multi-site.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2019-08-27T23:08:59Z",
+      "side": 1,
+      "message": "plugins",
+      "range": {
+        "startLine": 12,
+        "startChar": 11,
+        "endLine": 12,
+        "endChar": 17
+      },
+      "revId": "b4e272d291cff48d09028241107704715940ea10",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
