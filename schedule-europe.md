@@ -21,7 +21,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |-------|----------------------------------------------------------------------------------------------|
 |  8:30 | Registration Opens, Networking                                                    |
 |  9:00 | Welcome to Volvo Cars - KeyNote introduction                                                 |
-|  9:30 | What's new in Gerrit v3.0                                                                    |
+|  9:30 | [What's new in Gerrit v3.0](sessions/gerrit-3.0.md)                                          |
 | 10:30 | Break & Networking                                                                           |
 | 10:45 | [First-class Gerrit CI integration with Checks](sessions/first-class-ci-integration.md)      |
 | 11:45 | [Gerrit goes multi-site](sessions/gerrit-multi-site.md)                                      |
