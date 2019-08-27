@@ -24,7 +24,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |  9:30 | What's new in Gerrit v3.0                                                                    |
 | 10:30 | Break & Networking                                                                           |
 | 10:45 | [First-class Gerrit CI integration with Checks](sessions/first-class-ci-integration.md)      |
-| 11:45 | Gerrit goes multi-site                                                                       |
+| 11:45 | [Gerrit goes multi-site](sessions/gerrit-multi-site.md)                                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Labels & Prolog-less submit rules](sessions/labels-and-prolog-less-submit-rules.md)         |
 | 15:00 | Gerrit at Volvo Cars                                                                         |
