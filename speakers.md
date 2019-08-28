@@ -20,7 +20,7 @@ He is a Gerrit Contributor since 2012 and member of the Engineering Steering Com
 Luca maintains [GerritHub.io](https://gerrithub.io), the Open Service for Gerrit Code Review
 on top of GitHub repositories.
 
-### Nicholas Mucci - Volvo Cars
+### Nicholas Mucci - Volvo Cars {xnupanic}
 
 [LinkedIn](https://www.linkedin.com/in/nmucci/)
 
