@@ -27,7 +27,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 11:45 | [Gerrit goes multi-site](sessions/gerrit-multi-site.md)                                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Labels & Prolog-less submit rules](sessions/labels-and-prolog-less-submit-rules.md)         |
-| 15:00 | Gerrit at Volvo Cars                                                                         |
+| 15:00 | [Gerrit at Volvo Cars](sessions/gerrit-at-volvo.md)                                          |
 | 15:45 | Break & Networking                                                                           |
 | 16:15 | [End-to-End Git/Gerrit testing with Gatling](sessions/gerrit-load-testing.md)                |
 | 17:00 | [Using Zuul CI with Gerrit](sessions/zuul.md)                                                |
