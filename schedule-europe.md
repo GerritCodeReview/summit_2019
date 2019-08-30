@@ -40,10 +40,11 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |-------|----------------------------------------------------------------------------------------------|
 |  9:00 | Networking                                                                                   |
 | 10:00 | [Code review at Tuleap: lessons from the trenches](sessions/code-review-lessons-xp.md)       |
-| 11:00 | [Community Retrospective - Part 1](sessions/community-retrospective.md)                      |
-| 11:45 | Break                                                                                        |
-| 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
-| 12:45 | Lunch & Networking                                                                           |
+| 10:45 | Break
+| 11:15 | [Community Retrospective - Part 1](sessions/community-retrospective.md)                      |
+| 12:00 | Break                                                                                        |
+| 12:15 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
+| 13:00 | Lunch & Networking                                                                           |
 | 14:00 | [Gertty, console-based interface to the Gerrit Code Review system](sessions/gertty.md)       |
 | 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
 | 15:30 | [Dependency Visualization with Gerrit](sessions/dependency-visualization.md)                 |
