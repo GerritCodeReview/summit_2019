@@ -9,4 +9,6 @@ Join me for a tour of new features you can use today, and a discussion about eve
 more things to look forward to once we've freed ourselves from the burden of some
 of our legacy code.
 
+[Presentation slides](https://www.slideshare.net/lucamilanesio/whats-new-in-gerrit-code-review-30)
+
 *[Luca Milanesio, Gerrit Maintainer / GerritForge Ltd](../speakers.md#lmilanesio)*

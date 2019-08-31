@@ -16,4 +16,6 @@ Multi-site is a journey and the Community is making big steps towards it.
 Let's discuss where we are in the journey to multi-site
 and what are the next steps.
 
+[Presentation slides](https://www.slideshare.net/lucamilanesio/gerrit-code-review-multisite)
+
 *[Luca Milanesio, Gerrit Maintainer / GerritForge Ltd](../speakers.md#lmilanesio)*
