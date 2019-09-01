@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ee22d9e8_eb82a9ca",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2019-09-01T23:15:44Z",
+      "side": 1,
+      "message": "I think it can, but it\u0027s disabled on googlesource.com",
+      "revId": "2c53feab6a594ade078448b1492841340f6b1311",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
