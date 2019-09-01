@@ -36,7 +36,7 @@ There are several options for parking in the area. See the map below.
 Please note that on Saturday morning, a farmer’s market runs in Murphy Avenue, therefore this street is closed
 for cars and the area can get busy with pedestrians.
 
-![USA venue parking](images/sunnyvale-parking.png)
+![USA venue parking](images/sunnyvale-parking.jpg)
 
 ## Hotels and Places to Stay
 
