@@ -14,4 +14,6 @@ most interest, possibly with deducing action items from them.
 To take part in the brainstorming participants need a notebook with a browser
 and a connection to the internet.
 
+[Presentation slides](https://docs.google.com/presentation/d/1ScU706bYqCEZMU4z3EBHzhj6CQ12ftNo847mzzbMOVU/edit?usp=sharing)
+
 *[Edwin Kempin, Google](../speakers.md#ekempin)*
