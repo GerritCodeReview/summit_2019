@@ -16,4 +16,6 @@ which often cause trouble because most people are not familiar enough with
 Prolog. I will show an example implementation of a Prolog-less submit rule and
 explain how you can develop your own custom submit rules.
 
+[Presentation slides](https://docs.google.com/presentation/d/1fUjnmngWLFaexZKlN5XmL9EmOX8Nh_P0yJcThnlJ3Lk/edit?usp=sharing)
+
 *[Edwin Kempin, Google](../speakers.md#ekempin)*
