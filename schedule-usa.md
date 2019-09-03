@@ -43,7 +43,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 11:45 | Break                                                                                        |
 | 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
 | 12:45 | Lunch & Networking                                                                           |
-| 14:00 | << Gerrit case study - slot available >>                                                     |
+| 14:00 | [Towards a lightning-fast Gerrit](sessions/performance.md)
 | 15:00 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
 | 16:00 | Break & Networking                                                                           |
 | 16:15 | Wrap-up and proposals for future Summits                                                     |
