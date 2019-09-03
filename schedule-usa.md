@@ -27,7 +27,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 11:45 | Gerrit goes multi-site                                                                       |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [JGit (concrete topic to be decided)](sessions/jgit.md)
-| 15:00 | << Gerrit case study - slot available >>                                                     |
+| 15:00 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
 | 16:00 | Break & Networking                                                                           |
 | 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md)
 | 17:30 | End of Day 1                                                                                 |
