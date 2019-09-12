@@ -11,4 +11,6 @@ In this short showcase, we will present our new approach, and discuss how
 visuals and transparency would improve architectural quality and make code
 reviewers' lives easier.
 
+[Presentation slides](https://www.slideshare.net/MichaelWatkins92/gerrit-user-summit-2019-softagram-dependency-visualization)
+
 *[Michael Watkins, Softagram](../speakers.md#mwatkins) (Summit in Europe)*
