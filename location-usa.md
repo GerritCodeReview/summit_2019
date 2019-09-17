@@ -40,24 +40,13 @@ for cars and the area can get busy with pedestrians.
 
 ## Hotels and Places to Stay
 
-The Gerrit User Summit 2019 has agreed a discounted rate for the [MapleTree Inn](https://mapletreeinn.info),
-711 E El Camino Real, Sunnyvale CA.
-
-See below the instructions for booking using the discounted rate
-- Open the [MapleTree Inn Group Booking](https://mapletreeinn.info)
-- Select the date of arrival from the left calendar
-- Select the number of nights on the right side
-- On "Group/Promotion", select "Group Code" and enter 1390
-- Click on the "Get Rates" button
-- Choose the room type and click "Book Now"
-- Enter your customer details and proceed with "Process Card & Book Reservation"
-
-You can also watch this [short YouTube Video](https://youtu.be/TVRdzDkvnIc) showing the above booking process.
-
-**NOTE**: The discount is valid for bookings between the 9th and 17th of November ONLY.
-
-There are other options for Hotels and Inns around Sunnyvale as well. However, at times, availability can
+There are plenty of options for Hotels and Inns around Sunnyvale. However, at times, availability can
 be limited because of the convenient location close to the [CalTrain station](http://www.caltrain.com/stations/sunnyvalestation.html).
+
+We recommend one of the following two hotels nearby:
+
+- [Maple Tree Inn](https://www.mapletreeinn.com/), 711 E El Camino Real, Sunnyvale, CA 94087, USA
+- [Wild Palms Hotel](https://www.jdvhotels.com/hotels/california/sunnyvale/wild-palms-hotel), 910 EAST FREMONT AVENUE, SUNNYVALE, CA 94087
 
 ## Facility Resources
 
