@@ -27,8 +27,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 11:45 | [Gerrit goes multi-site](sessions/gerrit-multi-site.md)                                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [JGit (concrete topic to be decided)](sessions/jgit.md)
-| 15:00 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
-| 16:00 | Break & Networking                                                                           |
+| 14:45 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
+| 15:30 | [Using Zuul CI for the Gerrit Code Review project](sessions/zuul.md)                         |
+| 16:15 | Break & Networking                                                                           |
 | 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md)
 | 17:30 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3.0                                                        |
