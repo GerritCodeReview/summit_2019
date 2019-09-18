@@ -40,13 +40,26 @@ for cars and the area can get busy with pedestrians.
 
 ## Hotels and Places to Stay
 
-There are plenty of options for Hotels and Inns around Sunnyvale. However, at times, availability can
+GerritForge has agreed a discounted rate for the [**Wild Palms Hotel in Sunnyvale**](https://goo.gl/maps/5gb2fYyJo3LzXWpn7)
+910 E Fremont Ave, Sunnyvale, CA 94087.
+
+Staying in the same Hotel helps __to reduce the overall carbon footprint__ of the event by leveraging Carpooling
+and saving costs on the transfer via Taxi or Shuttle.
+Also, allows continuing the __networking of the event with the other participants__ to the Hackathon and Summit.
+Most of the Gerrit maintainers and contributors will stay at the same Hotel, so you would have more chances
+to have interesting conversations.
+
+See below the **instructions for booking using the GROUP-CODE G-GS19**:
+- Open the [THIS LINK for booking using the group-code](https://www.hyatt.com/en-US/group-booking/SJCJW/G-GS19)
+- Select the date of arrival and departure (earliest is 9th of November)
+- Select the number of guests (latest is 18th of November)
+- Click on "FIND ROOMS"
+- Choose the room type and click "SELECT"
+- Enter your customer details and proceed with "PROCEED TO PAYMENT"
+
+**NOTE**: The discount is valid for bookings between the 9th and 18th of November ONLY.
+There are other options for Hotels and Inns around Sunnyvale as well. However, at times, availability can
 be limited because of the convenient location close to the [CalTrain station](http://www.caltrain.com/stations/sunnyvalestation.html).
-
-We recommend one of the following two hotels nearby:
-
-- [Maple Tree Inn](https://www.mapletreeinn.com/), 711 E El Camino Real, Sunnyvale, CA 94087, USA
-- [Wild Palms Hotel](https://www.jdvhotels.com/hotels/california/sunnyvale/wild-palms-hotel), 910 EAST FREMONT AVENUE, SUNNYVALE, CA 94087
 
 ## Facility Resources
 
