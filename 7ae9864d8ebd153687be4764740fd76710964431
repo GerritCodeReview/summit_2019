@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "041790ae_b63009f3",
+        "filename": "location-usa.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2019-09-19T00:05:24Z",
+      "side": 1,
+      "message": "Should this be on the previous line?  What does latest date have to do with number of guests?",
+      "range": {
+        "startLine": 55,
+        "startChar": 30,
+        "endLine": 55,
+        "endChar": 58
+      },
+      "revId": "7ae9864d8ebd153687be4764740fd76710964431",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
