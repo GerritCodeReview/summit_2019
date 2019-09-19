@@ -22,6 +22,30 @@
       "revId": "7ae9864d8ebd153687be4764740fd76710964431",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c0628c15_35fcbaea",
+        "filename": "location-usa.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-09-19T00:10:15Z",
+      "side": 1,
+      "message": "Good catch, too tired over here ... 1 AM :-(",
+      "parentUuid": "041790ae_b63009f3",
+      "range": {
+        "startLine": 55,
+        "startChar": 30,
+        "endLine": 55,
+        "endChar": 58
+      },
+      "revId": "7ae9864d8ebd153687be4764740fd76710964431",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
