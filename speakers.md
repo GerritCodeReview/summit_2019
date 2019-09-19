@@ -112,3 +112,9 @@ Committee. Monty is the PTL of the openstacksdk project and is the
 maintainer of the Ansible modules for consuming OpenStack. Before his
 OpenStack days he was a core developer on Drizzle and was a Senior
 Consultant for MySQL, Inc.
+
+### David Ostrovsky - GerritForge {#davido}
+
+David is a contributor to Gerrit since 2013 and a maintainer/committer
+since 2016. David has been an open source and free software enthusiast
+for many years and has contribited to a number of open source projects.
