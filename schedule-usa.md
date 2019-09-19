@@ -44,8 +44,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 11:45 | Break                                                                                        |
 | 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
 | 12:45 | Lunch & Networking                                                                           |
-| 14:00 | [Towards a lightning-fast Gerrit](sessions/performance.md)
-| 15:00 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
-| 16:00 | Break & Networking                                                                           |
-| 16:15 | Wrap-up and proposals for future Summits                                                     |
+| 14:00 | [Bazel, what's new and noteworthy](sessions/bazel-new-and-noteworthy.md)                     |
+| 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)
+| 15:30 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
+| 16:15 | Break & Networking                                                                           |
+| 16:30 | Wrap-up and proposals for future Summits                                                     |
 | 17:00 | End of the Gerrit User Summit                                                                |
