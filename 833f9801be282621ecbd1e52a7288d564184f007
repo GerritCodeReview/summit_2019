@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "a6f5b573_d978b647",
+        "filename": "lightning-talks/bazel-new-and-noteworthy.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2019-09-20T13:53:47Z",
+      "side": 1,
+      "message": "I can remove that. We could also explain, that Java 7 and Buck were removed also form GerritForge development docker image and from the CI and that all plugin artifacts were archived, and this is really really, time to upgrade to at least 2.14.",
+      "parentUuid": "1ede3d56_337d7c4e",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 52
+      },
+      "revId": "833f9801be282621ecbd1e52a7288d564184f007",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "d707e3e6_7e880f9d",
         "filename": "lightning-talks/bazel-new-and-noteworthy.md",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2019-09-20T13:49:37Z",
       "side": 1,
       "message": "Are you sure you can do this also in the total time of 10 mins?\nWe did in Sweden and it was a session of at least 30-40\u0027 for that.",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 43
+      },
+      "revId": "833f9801be282621ecbd1e52a7288d564184f007",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "99cc87b4_983cdbb8",
+        "filename": "lightning-talks/bazel-new-and-noteworthy.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2019-09-20T13:53:47Z",
+      "side": 1,
+      "message": "Right, should we change it from lightning talk to a regular talk, and extend from bazel to broader development environment topic, IDEs, patching and building gerrit?",
+      "parentUuid": "d707e3e6_7e880f9d",
       "range": {
         "startLine": 11,
         "startChar": 0,
