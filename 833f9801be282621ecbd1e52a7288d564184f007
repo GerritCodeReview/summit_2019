@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ede3d56_337d7c4e",
+        "filename": "lightning-talks/bazel-new-and-noteworthy.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-09-20T13:49:37Z",
+      "side": 1,
+      "message": "This actually happened over a year ago, is it really \"what\u0027s new?\"",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 52
+      },
+      "revId": "833f9801be282621ecbd1e52a7288d564184f007",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d707e3e6_7e880f9d",
+        "filename": "lightning-talks/bazel-new-and-noteworthy.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-09-20T13:49:37Z",
+      "side": 1,
+      "message": "Are you sure you can do this also in the total time of 10 mins?\nWe did in Sweden and it was a session of at least 30-40\u0027 for that.",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 43
+      },
+      "revId": "833f9801be282621ecbd1e52a7288d564184f007",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
