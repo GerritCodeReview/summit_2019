@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "b4c1853c_54b4f8bb",
+        "filename": "lightning-talks/bazel-new-and-noteworthy.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-09-23T15:12:37Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "a6f5b573_d978b647",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 52
+      },
+      "revId": "833f9801be282621ecbd1e52a7288d564184f007",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "d707e3e6_7e880f9d",
         "filename": "lightning-talks/bazel-new-and-noteworthy.md",
         "patchSetId": 1
@@ -84,6 +108,30 @@
       "side": 1,
       "message": "Right, should we change it from lightning talk to a regular talk, and extend from bazel to broader development environment topic, IDEs, patching and building gerrit?",
       "parentUuid": "d707e3e6_7e880f9d",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 43
+      },
+      "revId": "833f9801be282621ecbd1e52a7288d564184f007",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "66a19ddf_4f433733",
+        "filename": "lightning-talks/bazel-new-and-noteworthy.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2019-09-23T15:12:37Z",
+      "side": 1,
+      "message": "Yes, that\u0027s my suggestion.\nThe topic *IS* super-interesting and restricting it to only 10 mins would be a problem.",
+      "parentUuid": "99cc87b4_983cdbb8",
       "range": {
         "startLine": 11,
         "startChar": 0,
