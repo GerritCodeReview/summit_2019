@@ -118,3 +118,14 @@ Consultant for MySQL, Inc.
 David is a contributor to Gerrit since 2013 and a maintainer/committer
 since 2016. David has been an open source and free software enthusiast
 for many years and has contribited to a number of open source projects.
+
+### Marian Harbach - Google {#mharbach}
+
+Marian joined Google in 2018 as a UX Researcher looking at internal developer 
+tools. In a previous life, he did academic research on the UX of security and
+privacy in smartphones and the Web. Marian also used to be part of the connected 
+car security team at a large German automaker.
+
+More recently, he is researching code review workflows and hoping to help improving 
+the Gerrit experience.
+
