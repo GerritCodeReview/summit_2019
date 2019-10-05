@@ -32,7 +32,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 16:15 | Break & Networking                                                                           |
 | 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Gerrit UX @ Google - 15'](lightning-talks/google-gerrit-ux.md)
 | 17:30 | End of Day 1                                                                                 |
-| 19:00 | Dinner - Celebrations for Gerrit v3.0                                                        |
+| 19:00 | Dinner - Celebrations for Gerrit v3                                                        |
 
 ### Sunday 17th November
 
