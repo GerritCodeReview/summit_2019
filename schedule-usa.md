@@ -1,14 +1,45 @@
 # Gerrit User Summit USA 2019 - Schedule
 
-## Hackathon, 11-15th November (Mon-Fri)
+## Hackathon
+
+The Gerrit Hackathon 2019 in Sunnyvale is reserved for the people that have signed up,
+requested to participate and confirmed their attendance.
+
+> __NOTE__: The Hackathon *is not* a competition but rather cooperation between people
+> that work together for a week for improving and achieving a major milestone in current
+> or future versions of Gerrit. There is no prise, no payment or other subsidies provided.
+> Each participant would have to manage their own transport and subsistence expenses.
+
+### Monday, 11th November
 
 | Time  | Session                                                 |
 |-------|---------------------------------------------------------|
-|  8:30 | Registration Opens, Breakfast                           |
+|  8:30 | Breakfast at the Wild Palm Hotel                        |
+|  9:00 | Registration / check-in at The Satellite                \
 |  9:30 | Presentation of the hackathon topics, introductions     |
 | 10:30 | Coding                                                  |
 | 12:15 | Lunch & Networking                                      |
 | 14:00 | Coding                                                  |
+| 17:00 | End of the day                                          |
+
+### Tuesday, Wednesday, Thursday 12th-14th November
+
+| Time  | Session                                                 |
+|-------|---------------------------------------------------------|
+|  8:30 | Breakfast at the Wild Palm Hotel                        |
+|  9:00 | Coding and discussions at The Satellite                 |
+| 12:15 | Lunch & Networking in downtown Sunnyvale                |
+| 14:00 | Coding and discussions at The Satellite                 |
+| 17:00 | End of the day                                          |
+
+### Friday, 15th November
+
+| Time  | Session                                                 |
+|-------|---------------------------------------------------------|
+|  8:30 | Breakfast at the Wild Palm Hotel                        |
+|  9:00 | - Preparation for the Gerrit v3.1 release <br/>- Coding and testing of the release at The Satellite
+| 12:15 | Lunch & Networking                                      |
+| 14:00 | - Showcases <br/>- Announcement and Release of Gerrit v3.1
 | 17:00 | End of the day                                          |
 
 ## The User Summit
