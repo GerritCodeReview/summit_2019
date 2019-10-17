@@ -24,4 +24,6 @@ As compared to the web interface, the main advantages are:
 This presentation will provide an overview and demonstration of
 Gertty, as well as some discussion about Gerrit's excellent REST API.
 
+[YouTube video replay](https://youtu.be/EP-b5xhH-LY)
+
 *[James E. Blair, Red Hat](../speakers.md#corvus)*
