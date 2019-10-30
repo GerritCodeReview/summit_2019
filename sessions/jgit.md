@@ -1,5 +1,13 @@
-# JGit talk
+# What's cooking in JGit
 
-A talk about a JGit. The concrete topic of this talk is still being discussed.
+An overview of recent developments in JGit on the server side.
 
-*Ivan Frade, Google*
+We will introduce some of the latest developments in the JGit server side. We
+will talk about features implemented recently (server-side options,
+sideband-all, bitmap-based reachability checks) and currently in the works
+(packfile-offloading, client-side reftables). This is also a good chance to talk
+about what we are looking forward in JGit in the near future.
+
+
+*[Ivan Frade, Google](../speakers.md#ifrade) (Summit in USA)*
+

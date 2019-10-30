@@ -129,3 +129,13 @@ car security team at a large German automaker.
 More recently, he is researching code review workflows and hoping to help improving 
 the Gerrit experience.
 
+### Ivan Frade - Google {#ifrade}
+
+Ivan Frade is a software engineer at Google. He works in the git service
+that hosts popular repositores as Chromium and Android. He is a regular
+contributor to the JGit library.
+
+Before working in Git, Ivan worked for Nokia in their linux-based mobile
+platform, Maemo/Meego, and has contributed to the GNOME desktop.
+
+
