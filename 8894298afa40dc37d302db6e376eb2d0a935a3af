@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f75f59ab_54146aa7",
+        "filename": "sessions/jgit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1024147
+      },
+      "writtenOn": "2019-10-30T12:10:15Z",
+      "side": 1,
+      "message": "is this my stuff?  I was going to go over this during Patrick\u0027s talk, as it is a performance topic.\nHappy to put it here too.",
+      "range": {
+        "startLine": 8,
+        "startChar": 21,
+        "endLine": 8,
+        "endChar": 43
+      },
+      "revId": "8894298afa40dc37d302db6e376eb2d0a935a3af",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
