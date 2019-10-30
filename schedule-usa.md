@@ -60,7 +60,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | [First-class Gerrit CI integration with Checks](sessions/first-class-ci-integration.md)      |
 | 11:45 | [Gerrit goes multi-site](sessions/gerrit-multi-site.md)                                      |
 | 12:45 | Lunch & Networking                                                                           |
-| 14:00 | [JGit (concrete topic to be decided)](sessions/jgit.md)
+| 14:00 | [What's cooking in JGit](sessions/jgit.md)
 | 14:45 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
 | 15:30 | [Using Zuul CI for the Gerrit Code Review project](sessions/zuul.md)                         |
 | 16:15 | Break & Networking                                                                           |
