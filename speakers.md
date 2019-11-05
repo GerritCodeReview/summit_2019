@@ -138,4 +138,7 @@ contributor to the JGit library.
 Before working in Git, Ivan worked for Nokia in their linux-based mobile
 platform, Maemo/Meego, and has contributed to the GNOME desktop.
 
+### Matthias Sohn - SAP {#msohn}
 
+Matthias is a long-time Gerrit contributor. He joined the Gerrit project in 2010,
+and assumed the role as community manager in 2019.  He leads the Gerrit team at SAP and is project lead of Eclipse JGit and EGit.
