@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "5e0fa4de_e0d55aad",
+        "filename": "schedule-usa.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1074328
+      },
+      "writtenOn": "2019-11-05T13:32:07Z",
+      "side": 1,
+      "message": "That would also be an opportunity to re-consolidate with what is currently the UX lightning talk. The only concern would then be that we only talk about what we do at our booth on Sunday morning (and Delphine and I leave for the airport at around lunchtime).",
+      "parentUuid": "2b06695e_e16618df",
+      "range": {
+        "startLine": 77,
+        "startChar": 2,
+        "endLine": 77,
+        "endChar": 7
+      },
+      "revId": "35206b25dd72710711e481509cf852c6cfa64b8b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "11675c18_8932659e",
         "filename": "schedule-usa.md",
         "patchSetId": 1
