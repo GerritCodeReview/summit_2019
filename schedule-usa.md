@@ -60,26 +60,27 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 10:45 | [First-class Gerrit CI integration with Checks](sessions/first-class-ci-integration.md)      |
 | 11:45 | [Gerrit goes multi-site](sessions/gerrit-multi-site.md)                                      |
 | 12:45 | Lunch & Networking                                                                           |
-| 14:00 | [What's cooking in JGit](sessions/jgit.md)
+| 14:00 | [What's cooking in JGit](sessions/jgit.md)                                                   |
 | 14:45 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
 | 15:30 | [Using Zuul CI for the Gerrit Code Review project](sessions/zuul.md)                         |
 | 16:15 | Break & Networking                                                                           |
 | 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Gerrit UX @ Google - 15'](lightning-talks/google-gerrit-ux.md) <br/>- [Racy JGit - a short history of time - 15'](lightning-talks/jgit-racy-read.md)
 | 17:30 | End of Day 1                                                                                 |
-| 19:00 | Dinner - Celebrations for Gerrit v3                                                        |
+| 19:00 | Dinner - Celebrations for Gerrit v3                                                          |
 
 ### Sunday 17th November
 
 | Time  | Session                                                                                      |
 |-------|----------------------------------------------------------------------------------------------|
 |  9:00 | Breakfast, Networking                                                                        |
-| 10:00 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
+|  9:30 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
+| 10:30 | [Recent developments in Gerrit's UI](sessions/frontend.md)                                   |
 | 11:00 | [Community Retrospective - Part 1](sessions/community-retrospective.md)                      |
 | 11:45 | Break                                                                                        |
 | 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Bazel, what's new and noteworthy](sessions/bazel-new-and-noteworthy.md)                     |
-| 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)
+| 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)                                   |
 | 15:30 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
 | 16:15 | Break & Networking                                                                           |
 | 16:30 | Wrap-up and proposals for future Summits                                                     |
