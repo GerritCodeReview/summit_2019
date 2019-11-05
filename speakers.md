@@ -129,6 +129,22 @@ car security team at a large German automaker.
 More recently, he is researching code review workflows and hoping to help improving 
 the Gerrit experience.
 
+### Delphine Carlson - Google {#delphinec}
+
+Delphine is a UX Designer at Google and works on Gerrit and Critique (the
+Google internal code review tool).
+
+### Ben Rohlfs - Google {#brohlfs}
+
+Ben spent the past eleven years at Google working as an engineer on developer
+tools, most of that time on Critique, the Google internal code review system.
+Since 2019 he is Gerrit's frontend lead and a member of the Engineering Steering
+Committee.
+
+Unlike many engineers Ben is deeply in love with colors and pixels and has a
+tendency to waste his time on css tweaks. Feel free to report issues to him
+when something is one pixel off center.
+
 ### Ivan Frade - Google {#ifrade}
 
 Ivan Frade is a software engineer at Google. He works in the git service
