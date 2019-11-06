@@ -20,4 +20,4 @@ analyzers as well.
 
 *[Alice Kober-Sotzek, Google](../speakers.md#aliceks) (Summit in Europe)*
 
-*TBD (Summit in USA)*
+*[Han-Wen Nienhuys, Google](../speakers.md#hanwen) (Summit in USA)*
