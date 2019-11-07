@@ -121,12 +121,12 @@ for many years and has contribited to a number of open source projects.
 
 ### Marian Harbach - Google {#mharbach}
 
-Marian joined Google in 2018 as a UX Researcher looking at internal developer 
+Marian joined Google in 2018 as a UX Researcher looking at internal developer
 tools. In a previous life, he did academic research on the UX of security and
-privacy in smartphones and the Web. Marian also used to be part of the connected 
+privacy in smartphones and the Web. Marian also used to be part of the connected
 car security team at a large German automaker.
 
-More recently, he is researching code review workflows and hoping to help improving 
+More recently, he is researching code review workflows and hoping to help improving
 the Gerrit experience.
 
 ### Delphine Carlson - Google {#delphinec}
@@ -157,4 +157,11 @@ platform, Maemo/Meego, and has contributed to the GNOME desktop.
 ### Matthias Sohn - SAP {#msohn}
 
 Matthias is a long-time Gerrit contributor. He joined the Gerrit project in 2010,
-and assumed the role as community manager in 2019.  He leads the Gerrit team at SAP and is project lead of Eclipse JGit and EGit.
+and assumed the role as community manager in 2019.  He leads the Gerrit team at
+SAP and is project lead of Eclipse JGit and EGit.
+
+
+### Han-Wen Nienhuys - Google {#hanwen}
+
+Han-Wen leads the Gerrit Backend team in Munich since 2016. Aside from managing
+the team, he occasionally writes code when nobody is watching.
