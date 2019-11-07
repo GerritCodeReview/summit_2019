@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "684889c9_b34928ae",
+        "filename": "sessions/frontend.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1013302
+      },
+      "writtenOn": "2019-11-07T08:15:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "07678cff_2bc69f6a",
+      "range": {
+        "startLine": 4,
+        "startChar": 4,
+        "endLine": 4,
+        "endChar": 17
+      },
+      "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "cc88bfbe_3b0213de",
         "filename": "sessions/frontend.md",
         "patchSetId": 2
@@ -48,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "cc0890b1_9bbeba5f",
+        "filename": "sessions/frontend.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1013302
+      },
+      "writtenOn": "2019-11-07T08:15:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cc88bfbe_3b0213de",
+      "range": {
+        "startLine": 8,
+        "startChar": 39,
+        "endLine": 8,
+        "endChar": 40
+      },
+      "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "02d2f41f_68a0d0da",
         "filename": "sessions/frontend.md",
         "patchSetId": 2
@@ -68,6 +116,30 @@
       "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "25b0eb8e_cfb4ef0d",
+        "filename": "sessions/frontend.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1013302
+      },
+      "writtenOn": "2019-11-07T08:15:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "02d2f41f_68a0d0da",
+      "range": {
+        "startLine": 21,
+        "startChar": 76,
+        "endLine": 21,
+        "endChar": 77
+      },
+      "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
