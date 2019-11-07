@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "07678cff_2bc69f6a",
+        "filename": "sessions/frontend.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1074328
+      },
+      "writtenOn": "2019-11-07T08:11:12Z",
+      "side": 1,
+      "message": "Maybe mention both, frontend and UX team here?",
+      "range": {
+        "startLine": 4,
+        "startChar": 4,
+        "endLine": 4,
+        "endChar": 17
+      },
+      "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cc88bfbe_3b0213de",
+        "filename": "sessions/frontend.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1074328
+      },
+      "writtenOn": "2019-11-07T08:11:12Z",
+      "side": 1,
+      "message": "nit: typo",
+      "range": {
+        "startLine": 8,
+        "startChar": 39,
+        "endLine": 8,
+        "endChar": 40
+      },
+      "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "02d2f41f_68a0d0da",
+        "filename": "sessions/frontend.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1074328
+      },
+      "writtenOn": "2019-11-07T08:11:12Z",
+      "side": 1,
+      "message": "Maybe add: Feel free to come and find us at our booth in the breakout space, where you can also look at some design mocks in more detail.",
+      "range": {
+        "startLine": 21,
+        "startChar": 76,
+        "endLine": 21,
+        "endChar": 77
+      },
+      "revId": "07f074c9abd1a02ae0e0432cd2fee93aa9a1992f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
