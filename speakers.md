@@ -165,3 +165,14 @@ SAP and is project lead of Eclipse JGit and EGit.
 
 Han-Wen leads the Gerrit Backend team in Munich since 2016. Aside from managing
 the team, he occasionally writes code when nobody is watching.
+
+### Miikka Andersson - CollabNet {#mandersson}
+
+[LinkedId](https://www.linkedin.com/in/miikkaandersson/)
+
+Miikka joined CollabNet in 2016 as a Sr. Product Manager with special focus on
+company’s version control and software configuration management offering. Prior
+to joining CollabNet, he was architecting and driving large-scale CI/CD initiatives
+when working for enterprises, such as Nokia and Microsoft. Being a huge advocate
+of Agile and DevOps, he is always eager to help organizations to apply best SW
+engineering practices.
