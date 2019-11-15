@@ -75,9 +75,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |  9:00 | Breakfast, Networking                                                                        |
 |  9:30 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
 | 10:15 | [Recent developments in Gerrit's UI](sessions/frontend.md)                                   |
-| 11:00 | [Community Retrospective - Part 1](sessions/community-retrospective.md)                      |
+| 11:00 | Q&A Panel with Gerrit Maintainers Part 1                                                     |
 | 11:45 | Break                                                                                        |
-| 12:00 | [Community Retrospective - Part 2](sessions/community-retrospective.md)                      |
+| 12:00 | Q&A Panel with Gerrit Maintainers Part 2                                                     |
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Bazel, what's new and noteworthy](sessions/bazel-new-and-noteworthy.md)                     |
 | 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)
