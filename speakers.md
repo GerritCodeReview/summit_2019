@@ -168,7 +168,7 @@ the team, he occasionally writes code when nobody is watching.
 
 ### Miikka Andersson - CollabNet {#mandersson}
 
-[LinkedId](https://www.linkedin.com/in/miikkaandersson/)
+[LinkedIn](https://www.linkedin.com/in/miikkaandersson/)
 
 Miikka joined CollabNet in 2016 as a Sr. Product Manager with special focus on
 company’s version control and software configuration management offering. Prior
