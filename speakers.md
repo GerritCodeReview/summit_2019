@@ -176,3 +176,9 @@ to joining CollabNet, he was architecting and driving large-scale CI/CD initiati
 when working for enterprises, such as Nokia and Microsoft. Being a huge advocate
 of Agile and DevOps, he is always eager to help organizations to apply best SW
 engineering practices.
+
+### Tao Zhou - Google {#taoalpha}
+
+Tao is a software engineer at Google. He joined the Gerrit Frontend team in Munich
+in Aug, 2019.
+

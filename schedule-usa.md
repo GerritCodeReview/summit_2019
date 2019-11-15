@@ -64,7 +64,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 14:45 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
 | 15:30 | [Using Zuul CI for the Gerrit Code Review project](sessions/zuul.md)                         |
 | 16:15 | Break & Networking                                                                           |
-| 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Racy JGit - a short history of time - 15'](lightning-talks/jgit-racy-read.md) <br/>- [Ossum with Gerrit! - 15'](lightning-talks/ossum-with-gerrit.md)
+| 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Racy JGit - a short history of time - 15'](lightning-talks/jgit-racy-read.md) <br/>- [Ossum with Gerrit! - 15'](lightning-talks/ossum-with-gerrit.md) <br/>- [Gerrit FE Dev Helper - 10'](lightning-talks/gerrit-fe-dev-helper.md)
 | 17:30 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3                                                        |
 
