@@ -64,7 +64,6 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 14:45 | [Gerrit upgrades, step-by-step](sessions/gerrit-upgrades-step-by-step.md)                    |
 | 15:30 | [Using Zuul CI for the Gerrit Code Review project](sessions/zuul.md)                         |
 | 16:15 | Break & Networking                                                                           |
-| 16:30 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Racy JGit - a short history of time - 15'](lightning-talks/jgit-racy-read.md) <br/>- [Ossum with Gerrit! - 15'](lightning-talks/ossum-with-gerrit.md) <br/>- [Gerrit FE Dev Helper - 10'](lightning-talks/gerrit-fe-dev-helper.md)
 | 17:30 | End of Day 1                                                                                 |
 | 19:00 | Dinner - Celebrations for Gerrit v3                                                        |
 
@@ -75,9 +74,9 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 |  9:00 | Breakfast, Networking                                                                        |
 |  9:30 | Gerrit Review Analytics applied to the Android OpenSource Project                            |
 | 10:15 | [Recent developments in Gerrit's UI](sessions/frontend.md)                                   |
-| 11:00 | Q&A Panel with Gerrit Maintainers Part 1                                                     |
+| 11:00 | Q&A Panel with Gerrit Maintainers                                                            |
 | 11:45 | Break                                                                                        |
-| 12:00 | Q&A Panel with Gerrit Maintainers Part 2                                                     |
+| 12:00 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Racy JGit - a short history of time - 15'](lightning-talks/jgit-racy-read.md) <br/>- [Ossum with Gerrit! - 15'](lightning-talks/ossum-with-gerrit.md) <br/>- [Gerrit FE Dev Helper - 10'](lightning-talks/gerrit-fe-dev-helper.md)
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Bazel, what's new and noteworthy](sessions/bazel-new-and-noteworthy.md)                     |
 | 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)
