@@ -18,6 +18,8 @@ will show in a demo. I will also cover some future features we're envisioning
 and how we think that the approach would need to be extended to work for
 analyzers as well.
 
+[slides](https://storage.googleapis.com/gerrit-talks/summit/2019/checks-us2019-preso.pdf)
+
 *[Alice Kober-Sotzek, Google](../speakers.md#aliceks) (Summit in Europe)*
 
 *[Han-Wen Nienhuys, Google](../speakers.md#hanwen) (Summit in USA)*
