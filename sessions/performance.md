@@ -1,4 +1,4 @@
-# Towards a lightning-fast Gerrit
+# Building a lightning-fast Gerrit
 
 Gerrit users expect their code-review tool of choice to be fast. Rightfully so!
 
@@ -10,6 +10,6 @@ impact is assessed.
 We will close off with some hands-on tips on how to tune your Gerrit instance
 especially with respect to an upgrade to NoteDb in Gerrit 3.0.
 
-This talk will be given by video conference.
+[Slides](https://storage.cloud.google.com/gerrit-talks/summit/2019/reftable-slides.pdf)
 
 *[Patrick Hiesel, Google](../speakers.md#hiesel)*

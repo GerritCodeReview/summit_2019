@@ -79,7 +79,7 @@ Introduction, intermediate and advanced sessions on Gerrit Code Review.
 | 12:00 | Lightning talks <br/>- [Show me your dashboard - 10'](lightning-talks/show-me-your-dashboards.md) <br/>- [Racy JGit - a short history of time - 15'](lightning-talks/jgit-racy-read.md) <br/>- [Ossum with Gerrit! - 15'](lightning-talks/ossum-with-gerrit.md) <br/>- [Gerrit FE Dev Helper - 10'](lightning-talks/gerrit-fe-dev-helper.md)
 | 12:45 | Lunch & Networking                                                                           |
 | 14:00 | [Bazel, what's new and noteworthy](sessions/bazel-new-and-noteworthy.md)                     |
-| 14:45 | [Towards a lightning-fast Gerrit](sessions/performance.md)
+| 14:45 | [Building a lightning-fast Gerrit](sessions/performance.md)
 | 15:30 | [Gerrit load testing with Gatling](sessions/gerrit-load-testing.md)                          |
 | 16:15 | Break & Networking                                                                           |
 | 16:30 | Wrap-up and proposals for future Summits                                                     |
