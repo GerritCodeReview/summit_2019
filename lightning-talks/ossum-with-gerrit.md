@@ -12,4 +12,6 @@ TeamForge, making ossum CollabNet’s second product using Gerrit as its Git bac
 In addition to a brief introduction to ossum, this lightning talk will cover why we
 chose Gerrit (again!) and what are some lessons learnt from TeamForge.
 
+[Slides](https://storage.cloud.google.com/gerrit-talks/summit/2019/ossum-GUS_2019.pdf)
+
 *[Miikka Andersson -- CollabNet](../speakers.md#mandersson)*
