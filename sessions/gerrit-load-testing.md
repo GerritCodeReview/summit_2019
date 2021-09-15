@@ -12,4 +12,6 @@ The Git extension for Gatling is already an actively maintained
 I will show different use cases and scenarios based on Gerrit installation
 currently in production.
 
+[Presentation slides](https://docs.google.com/presentation/d/1dEVO5uNNt0ZpSNwS3H4O4A6Tz5gchMg9L8JhHrG6l6E)
+
 *[Fabio Ponciroli, GerritForge](../speakers.md#fponciroli)*
