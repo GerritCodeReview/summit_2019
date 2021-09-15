@@ -24,11 +24,6 @@ development process.
 > the organizer. We will do our best, however, to get people in and help increasing the community
 > of contributors.
 
-## How to register
-
-The access for the Hackathon and the User Summit is FREE and potentialy opened to
-everyone, prior registration on [EventBrite](https://gus2019.eventbrite.com).
-
 ### Gerrit User Summit - Europe
 
 *Location*
